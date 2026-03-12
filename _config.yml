@@ -1,1 +1,7 @@
-
+title: "My Course Website"
+theme: jekyll-theme-minimal
+description:
+Course materials, announcements, and resources.
+show_downloads: false
+github:
+is_project_page: true
